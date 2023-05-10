@@ -1,2 +1,2 @@
-# python_bits
- radom things I've done in python
+# Python Bits!
+ Some fun and random code I've written in python.
